@@ -15,7 +15,7 @@ body {
     background-color: var(--bg);
     font-family: 'Sora', sans-serif;
     letter-spacing: 1px;
-    cursor: url(https://cdn85362840.blazingcdn.net/cursor.svg), auto;
+    cursor: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/cursor.svg), auto;
 }
 
 
@@ -200,7 +200,7 @@ top-section
 ***********************************************************************/
 
 .top-section {
-    background: url(https://cdn85362840.blazingcdn.net/purple-wave.svg) no-repeat bottom center/100% auto;
+    background: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/purple-wave.svg) no-repeat bottom center/100% auto;
     padding-bottom: 6rem;
     position: relative;
     top: 1px;
@@ -287,7 +287,7 @@ top-section
     top: 0;
     left: 0;
     aspect-ratio: 200 / 131;
-    background-image: url(https://cdn85362840.blazingcdn.net/banner.svg);
+    background-image: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/banner.svg);
     transform: translate(-50%, -40%);
     background-repeat: no-repeat;
     background-position: center;
@@ -301,7 +301,7 @@ top-section
     bottom: 0;
     right: 0;
     aspect-ratio: 67 / 201;
-    background-image: url(https://cdn85362840.blazingcdn.net/half-banner.svg);
+    background-image: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/half-banner.svg);
     transform: translate(125%, 20%);
     background-repeat: no-repeat;
     background-position: center;
@@ -313,7 +313,7 @@ top-section
     top: 0;
     right: 0;
     z-index: 2;
-    background: url(../gif/like.gif) no-repeat center/cover;
+    background: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/like.gif) no-repeat center/cover;
     width: 100%;
     height: auto;
     aspect-ratio: 1 / 1;
@@ -325,7 +325,7 @@ top-section
     bottom: 0;
     left: 0;
     z-index: 2;
-    background: url(../gif/heart.gif) no-repeat center/cover;
+    background: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/heart.gif) no-repeat center/cover;
     width: 80%;
     height: auto;
     aspect-ratio: 7 / 8;
@@ -570,7 +570,7 @@ sec-section
 .sec-section .content .graphic::before {
     content: '';
     position: absolute;
-    background: url(https://cdn85362840.blazingcdn.net/rounded-text.svg) no-repeat center/cover;
+    background: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/rounded-text.svg) no-repeat center/cover;
     animation: spin 10s linear infinite;
     width: 100%;
     height: 100%;
@@ -587,7 +587,7 @@ sec-section
 .sec-section .content .graphic::after {
     content: '';
     position: absolute;
-    background: url(https://cdn85362840.blazingcdn.net/star5x.svg) no-repeat center/75% auto;
+    background: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/star5x.svg) no-repeat center/75% auto;
     width: 100%;
     height: 100%;
     left: 0;
@@ -909,7 +909,7 @@ third-section
     z-index: 2;
     width: 72px;
     height: 72px;
-    background: url(https://cdn85362840.blazingcdn.net/right-circle.svg) no-repeat center/cover;
+    background: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/right-circle.svg) no-repeat center/cover;
     transform: translate(35%, -70%);
 }
 
@@ -925,7 +925,7 @@ third-section
 }
 
 .third-section .videographic {
-    background-image: url(https://cdn85362840.blazingcdn.net/AB.svg);
+    background-image: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/AB.svg);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -943,7 +943,7 @@ third-section
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     border-bottom: none;
-    background-image: url(https://cdn85362840.blazingcdn.net/frame-top.svg);
+    background-image: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/frame-top.svg);
     aspect-ratio: 499 / 131;
     background-position: 15% 50%;
     background-repeat: no-repeat;
@@ -1301,7 +1301,7 @@ last-section
 }
 
 .last-section .overlay:hover::after {
-    background: url(https://cdn85362840.blazingcdn.net/instagram.svg) no-repeat center center;
+    background: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/instagram.svg) no-repeat center center;
     background-size: 25px 25px;
 }
 
@@ -1338,7 +1338,7 @@ last-section
 }
 
 .last-section .video-overlay:hover::after {
-    background: url(https://cdn85362840.blazingcdn.net/video-icon.png) no-repeat center center;
+    background: url(https://acaciaeg.s3.eu-central-1.amazonaws.com/video-icon.png) no-repeat center center;
     background-size: 25px 25px;
 }
 
